@@ -1,5 +1,10 @@
-$body-color: blue;
+$body-color: #000;
+$accent-color: #00b3e6;
 
 body {
   color: $body-color;
+}
+
+.accent {
+  color: $accent-color;
 }
